@@ -1,0 +1,52 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "Hola! Soy",
+        "home_text-3": "Desarrolladora de aplicaciones multiplataforma",
+        "parrafo-info": "Soy estudiante del curso superior Full Stack y estudiante de ingenieria informática.<br>Aspiro conseguir empleo en el mundo del Desarrollo de aplicaciones, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "Soy Desarrolladora de Aplicaciones Multiplataforma y estudiante del Curso Superior de Desarrollo Full Stack.<br>Aspiro conseguir empleo en el mundo del Desarrollo Web, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.<br><br>Soy una persona empática y entusiasta, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, resolución de problemas, responsable y proactiva, me gusta aprender de los demás y superarme continuamente."
+    },
+
+    "habilidades": {
+        "title": "Habilidades"
+    },
+
+    "formacion": {
+        "title": "Formación",
+        "formacion1": "Técnica en automatización y robótica industrial",
+        "tiempo-formacion1": "2019 - 2021",
+        "formacion2": "Desarrolladora de aplicaciones multiplataforma",
+        "tiempo-formacion2": "2022 - 2024",
+        "formacion3": "Desarrolladora Full-Stack",
+        "tiempo-formacion3": "2022 - En curso"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "AlertaCoches multiplataforma",
+        "info-proyecto1": "Una simulación de la web de AlertaCoches usando Flet y Docker, que permiten una app multiplataforma que puede generar instalables para Android e Ios.",
+        "title-proyecto2": "Portafolio",
+        "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
+        "title-proyecto3": "Encriptador de Texto",
+        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}
