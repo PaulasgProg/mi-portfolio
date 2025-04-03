@@ -9,8 +9,8 @@
 
     "home": {
         "home_text-1": "Hola! Soy",
-        "home_text-3": "Desarrolladora de aplicaciones multiplataforma",
-        "parrafo-info": "Soy estudiante del curso superior Full Stack y estudiante de ingenieria informática.<br>Aspiro conseguir empleo en el mundo del Desarrollo de aplicaciones, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.",
+        "home_text-3": "Desarrolladora Full-Stack",
+        "parrafo-info": "Soy Desarrolladora de Aplicaciones Multiplataforma y estudiante del curso superior Full Stack.<br>Aspiro conseguir empleo en el mundo del Desarrollo de aplicaciones, adquirir experiencia, nuevos conocimientos y fortalecer mi vida profesional.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
@@ -40,8 +40,8 @@
         "info-proyecto1": "Una simulación de la web de AlertaCoches usando Flet y Docker, que permiten una app multiplataforma que puede generar instalables para Android e Ios.",
         "title-proyecto2": "Portafolio",
         "info-proyecto2": "Mi portafolio web personal, donde se encuentran algunos de mis proyectos más destacados, mis habilidades técnicas y un poco sobre mi formación.",
-        "title-proyecto3": "Encriptador de Texto",
-        "info-proyecto3": "Un ecriptador donde el usuario puede escribir un texto y el encriptador lo codifica con llaves ya programadas. El encriptador también permite desencriptar el texto."
+        "title-proyecto3": "Android app",
+        "info-proyecto3": "Aplicación en AndroidStudio utilizando JetPackCompose incluyendo sus principales funciones."
     },
 
     "contacto": {

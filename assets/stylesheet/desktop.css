@@ -184,6 +184,7 @@ div.btn {
 .sobreMi h1 {
     margin-top: 2rem;
     font-size: 3rem;
+    font-weight: bold;
 }
 
 .container_content-sobreMi {
@@ -218,6 +219,7 @@ div.btn {
 .habilidades h1 {
     padding-top: 8rem;
     font-size: 3rem;
+    font-weight: bold;
 }
 
 .puntos1-habilidades,
@@ -238,8 +240,8 @@ div.btn {
 }
 
 .cards_container--habilidades {
-    /*grid-template-columns: 13rem 13rem 13rem 13rem;
-    grid-template-rows: 14rem 14rem;*/
+    grid-template-columns: 13rem 13rem 13rem 13rem 13rem;
+    grid-template-rows: 14rem 14rem;
     padding: 0;
     margin-top: 2rem;
 }
@@ -265,6 +267,7 @@ div.btn {
 .formacion h1 {
     padding-top: 8rem;
     font-size: 3rem;
+    font-weight: bold;
 }
 
 .cards--formacion:hover {
@@ -279,6 +282,7 @@ div.btn {
 .proyectos h1 {
     padding-top: 8rem;
     font-size: 3rem;
+    font-weight: bold;
 }
 
 .puntos1-proyectos {
@@ -326,6 +330,7 @@ div.btn {
 .contacto h1 {
     padding: 8rem 0 2.5rem 0;
     font-size: 3rem;
+    font-weight: bold;
 }
 
 .container_box--contacto {

@@ -459,8 +459,8 @@ span+span {
 
 .cards_container--habilidades {
     display: grid;
-    grid-template-columns: 13rem 13rem 13rem 13rem 13rem;
-    grid-template-rows: 14rem 14rem;
+    grid-template-columns: 13rem 13rem;
+    grid-template-rows: 14rem 14rem 14rem;
     gap: 3rem;
     justify-content: center;
     padding-bottom: 5rem;
@@ -474,7 +474,7 @@ span+span {
     align-items: center;
     justify-content: center;
     text-align: center;
-    /* filter: saturate(40%); */
+    filter: saturate(60%);
     width: 13rem;
     height: 14rem;
 }

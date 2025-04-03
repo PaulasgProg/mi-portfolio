@@ -1,23 +1,23 @@
 {
     "menu": {
-        "item2": "About me",
+        "item2": "About Me",
         "item3": "Skills",
-        "item4": "Training",
+        "item4": "Education",
         "item5": "Projects",
         "item6": "Contact"
     },
 
     "home": {
-        "home_text-1": "Hi! I'm",
-        "home_text-3": "Front-End Web Developer",
-        "parrafo-info": "Statistics and programming student focused on Frontend Web Development. As a person who loves intuitive and aesthetically pleasing designs I seek to create projects that provide the best user experience.",
+        "home_text-1": "Hello! I am",
+        "home_text-3": "Full-Stack Developer",
+        "parrafo-info": "I am a Multiplatform Applications Developer and a student of the Advanced Full Stack Development course.<br>I aspire to get a job in the field of application development, gain experience, acquire new knowledge, and strengthen my professional life.",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
-        "title": "About me",
-        "texto_sobreMi": "I'm a Statistics undergraduate student and a self-taught Web Development student focused on Frontend programming.<br>I aspire to get a job in the Web Development world, gain experience, new knowledge and strengthen my professional life.<br><br>I'm an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem solving, responsible and proactive, I like to learn from others and continuously improve myself."
+        "title": "About Me",
+        "texto_sobreMi": "I am a Multiplatform Applications Developer and a student of the Advanced Full Stack Development Course.<br>I aspire to get a job in the field of Web Development, gain experience, acquire new knowledge, and strengthen my professional life.<br><br>I am an empathetic and enthusiastic person, with skills focused on teamwork, assertive communication, problem-solving, responsibility, and proactivity. I enjoy learning from others and continuously improving myself."
     },
 
     "habilidades": {
@@ -25,27 +25,28 @@
     },
 
     "formacion": {
-        "title": "Training",
-        "formacion1": "Statistic",
-        "tiempo-formacion1": "2019 - In progress",
-        "formacion2": "Full-Stack Developer",
-        "tiempo-formacion2": "2022 - In progress",
-        "formacion3": "Accounting for Commercial and Financial Transactions"
+        "title": "Education",
+        "formacion1": "Technician in Industrial Automation and Robotics",
+        "tiempo-formacion1": "2019 - 2021",
+        "formacion2": "Multiplatform Applications Developer",
+        "tiempo-formacion2": "2022 - 2024",
+        "formacion3": "Full-Stack Developer",
+        "tiempo-formacion3": "2022 - Ongoing"
     },
 
     "proyectos": {
         "title": "Projects",
-        "title-proyecto1": "Hangman Game",
-        "info-proyecto1": "A game where the user must guess the secret word with a certain number of chances. The word is chosen randomly by the program and the user will lose the moment the gallows is completed.",
+        "title-proyecto1": "AlertaCoches Multiplatform",
+        "info-proyecto1": "A simulation of the AlertaCoches website using Flet and Docker, allowing for a multiplatform app that can generate installables for Android and iOS.",
         "title-proyecto2": "Portfolio",
-        "info-proyecto2": "My personal web portfolio, where you can find some of my most outstanding projects, my technical skills and a bit about my background.",
-        "title-proyecto3": "Text Encryptor",
-        "info-proyecto3": "An encryptor where the user can type a text and the encryptor encrypts it with pre-programmed keys. The encryptor can also decrypt the text."
+        "info-proyecto2": "My personal web portfolio, where you can find some of my most notable projects, my technical skills, and a bit about my education.",
+        "title-proyecto3": "Android App",
+        "info-proyecto3": "An application in Android Studio using JetPack Compose, including its main functions."
     },
 
     "contacto": {
         "title": "Contact",
-        "text": "Complete the form below and I will contact you as soon as possible.",
+        "text": "Fill out the following form, and I will get in touch with you as soon as possible.",
         "btn-enviar": "Send"
     }
 }
